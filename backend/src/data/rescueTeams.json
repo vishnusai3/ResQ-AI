@@ -1,0 +1,68 @@
+[
+  {
+    "id": "RSC-201",
+    "name": "NDRF 10th Bn Flood Rescue Unit A",
+    "locationName": "Kukatpally Emergency Depot",
+    "coordinates": { "lat": 17.4910, "lng": 78.4045 },
+    "teamType": "NDRF Flood Unit",
+    "personnelCount": 16,
+    "status": "AVAILABLE",
+    "equipment": ["Inflatable Motorized Boats", "High-Flow Dewatering Pumps", "Life Buoys", "Thermal Scanners"],
+    "assignedIncidentId": null
+  },
+  {
+    "id": "RSC-202",
+    "name": "Telangana Fire & Rescue Station Sanathnagar",
+    "locationName": "Sanathnagar Industrial Area",
+    "coordinates": { "lat": 17.4580, "lng": 78.4410 },
+    "teamType": "Fire & Hazmat Unit",
+    "personnelCount": 12,
+    "status": "AVAILABLE",
+    "equipment": ["Hydraulic Cutters", "Breathing Apparatus Sets", "Foam Tender 5000L", "Extension Ladders"],
+    "assignedIncidentId": null
+  },
+  {
+    "id": "RSC-203",
+    "name": "SDRF Urban Search & Rescue Team Beta",
+    "locationName": "Begumpet Civil Defence HQ",
+    "coordinates": { "lat": 17.4425, "lng": 78.4680 },
+    "teamType": "Urban Search & Rescue (USAR)",
+    "personnelCount": 18,
+    "status": "BUSY",
+    "equipment": ["Acoustic Listening Detectors", "Heavy Hydraulic Spreaders", "Search Canines", "Pneumatic Shoring"],
+    "assignedIncidentId": "INC-1002"
+  },
+  {
+    "id": "RSC-204",
+    "name": "GHMC Disaster Response Force (DRF) Unit 4",
+    "locationName": "Uppal Ring Road Depot",
+    "coordinates": { "lat": 17.4040, "lng": 78.5550 },
+    "teamType": "SDRF Tactical Squad",
+    "personnelCount": 14,
+    "status": "AVAILABLE",
+    "equipment": ["Tree Cutters", "Submersible Pumps", "Earth Movers (JCB Backhoe)", "Emergency Floodlights"],
+    "assignedIncidentId": null
+  },
+  {
+    "id": "RSC-205",
+    "name": "Madhapur Special Tactical Rescue Team",
+    "locationName": "Hitech City / Madhapur Fire Station",
+    "coordinates": { "lat": 17.4490, "lng": 78.3890 },
+    "teamType": "Fire & Hazmat Unit",
+    "personnelCount": 15,
+    "status": "AVAILABLE",
+    "equipment": ["Hazmat Containment Suits", "Drone Reconnaissance System", "Thermal Imaging Cameras"],
+    "assignedIncidentId": null
+  },
+  {
+    "id": "RSC-206",
+    "name": "Gachibowli Rapid Evacuation Brigade",
+    "locationName": "Gachibowli Police Commissionerate Hub",
+    "coordinates": { "lat": 17.4380, "lng": 78.3540 },
+    "teamType": "Medical Evac Squad",
+    "personnelCount": 10,
+    "status": "AVAILABLE",
+    "equipment": ["All-Terrain 4x4 Evac Vehicles", "Field Triage Tents", "Portable Defibrillators", "Oxygen Banks"],
+    "assignedIncidentId": null
+  }
+]

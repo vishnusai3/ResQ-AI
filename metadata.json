@@ -1,0 +1,6 @@
+{
+  "name": "ResQAI — AI Disaster Response Coordination Agent",
+  "description": "AI-powered multi-agent emergency and disaster response coordination platform with live geospatial mapping, autonomous agents, and human-in-the-loop validation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

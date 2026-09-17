@@ -1,0 +1,132 @@
+[
+  {
+    "id": "R001",
+    "name": "KPHB Main Road (JNTU to Forum Mall)",
+    "area": "Kukatpally",
+    "status": "blocked",
+    "traffic": "HIGH",
+    "hazard": "Severe waterlogging 3.5ft near Rythu Bazar",
+    "points": [
+      [17.4955, 78.3910],
+      [17.4935, 78.4020],
+      [17.4890, 78.4110]
+    ]
+  },
+  {
+    "id": "R002",
+    "name": "Miyapur - Kukatpally Highway (NH 65)",
+    "area": "Miyapur",
+    "status": "open",
+    "traffic": "MEDIUM",
+    "hazard": "Intermittent puddles on shoulder; elevated flyover clear",
+    "points": [
+      [17.4980, 78.3550],
+      [17.4940, 78.3850],
+      [17.4910, 78.4150]
+    ]
+  },
+  {
+    "id": "R003",
+    "name": "Gachibowli - Hitech City Spine Road",
+    "area": "Gachibowli",
+    "status": "open",
+    "traffic": "LOW",
+    "hazard": "Clear green emergency corridor active",
+    "points": [
+      [17.4410, 78.3490],
+      [17.4430, 78.3680],
+      [17.4470, 78.3820]
+    ]
+  },
+  {
+    "id": "R004",
+    "name": "Begumpet Flyover & Airport Road",
+    "area": "Begumpet",
+    "status": "restricted",
+    "traffic": "HIGH",
+    "hazard": "Fire service perimeter cordon active near Prakash Nagar",
+    "points": [
+      [17.4450, 78.4600],
+      [17.4470, 78.4720],
+      [17.4420, 78.4890]
+    ]
+  },
+  {
+    "id": "R005",
+    "name": "Secunderabad Station Road (Clock Tower to Rail Nilayam)",
+    "area": "Secunderabad",
+    "status": "open",
+    "traffic": "MEDIUM",
+    "hazard": "Debris clearance in adjacent lane; main carriage open",
+    "points": [
+      [17.4410, 78.4980],
+      [17.4350, 78.5060],
+      [17.4300, 78.5140]
+    ]
+  },
+  {
+    "id": "R006",
+    "name": "Hitech City - Madhapur Cable Bridge Link",
+    "area": "Hitech City",
+    "status": "open",
+    "traffic": "LOW",
+    "hazard": "Clear arterial bridge route",
+    "points": [
+      [17.4460, 78.3840],
+      [17.4360, 78.4010],
+      [17.4320, 78.4160]
+    ]
+  },
+  {
+    "id": "R007",
+    "name": "Mehdipatnam - Masab Tank Express Road",
+    "area": "Mehdipatnam",
+    "status": "open",
+    "traffic": "LOW",
+    "hazard": "All lanes operational with police escort points",
+    "points": [
+      [17.3940, 78.4410],
+      [17.4020, 78.4520],
+      [17.4110, 78.4610]
+    ]
+  },
+  {
+    "id": "R008",
+    "name": "Uppal - Ramanthapur Road",
+    "area": "Uppal",
+    "status": "open",
+    "traffic": "LOW",
+    "hazard": "Normal surface runoff, clear for heavy response convoys",
+    "points": [
+      [17.4040, 78.5580],
+      [17.3990, 78.5390],
+      [17.3930, 78.5180]
+    ]
+  },
+  {
+    "id": "R009",
+    "name": "LB Nagar - Dilsukhnagar Arterial",
+    "area": "LB Nagar",
+    "status": "open",
+    "traffic": "MEDIUM",
+    "hazard": "Moderate rush-hour traffic; emergency sirens given right of way",
+    "points": [
+      [17.3500, 78.5480],
+      [17.3680, 78.5280],
+      [17.3820, 78.5080]
+    ]
+  },
+  {
+    "id": "R010",
+    "name": "PVNR Expressway (Mehdipatnam to Airport)",
+    "area": "Mehdipatnam / Rajendranagar",
+    "status": "open",
+    "traffic": "LOW",
+    "hazard": "High-speed emergency transit corridor",
+    "points": [
+      [17.3920, 78.4430],
+      [17.3610, 78.4310],
+      [17.3180, 78.4120]
+    ]
+  }
+]

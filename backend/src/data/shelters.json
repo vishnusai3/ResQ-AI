@@ -1,0 +1,62 @@
+[
+  {
+    "id": "SHEL-01",
+    "name": "Kukatpally Indoor Sports Complex & Relief Shelter",
+    "location": "Near KPHB 4th Phase, Hyderabad",
+    "coordinates": { "lat": 17.4870, "lng": 78.4060 },
+    "totalCapacity": 400,
+    "occupied": 160,
+    "remainingCapacity": 240,
+    "facilities": ["Emergency Power Generator", "Potable Water Tankers", "Medical First Aid Post", "Community Kitchen", "Child Friendly Space"],
+    "status": "OPEN",
+    "contactPerson": "R. Sharma (Relief Warden) - 9848011223"
+  },
+  {
+    "id": "SHEL-02",
+    "name": "Miyapur Government Junior College Grounds",
+    "location": "Allwyn Colony Road, Miyapur, Hyderabad",
+    "coordinates": { "lat": 17.5020, "lng": 78.3580 },
+    "totalCapacity": 300,
+    "occupied": 80,
+    "remainingCapacity": 220,
+    "facilities": ["Clean Water Filtration", "Sanitation Blocks", "Emergency Rations Storage", "Rest Tents"],
+    "status": "OPEN",
+    "contactPerson": "P. Venkat (Shelter Supervisor) - 9848022334"
+  },
+  {
+    "id": "SHEL-03",
+    "name": "Gachibowli G.M.C. Balayogi Indoor Stadium Camp",
+    "location": "Old Mumbai Highway, Gachibowli, Hyderabad",
+    "coordinates": { "lat": 17.4440, "lng": 78.3470 },
+    "totalCapacity": 850,
+    "occupied": 210,
+    "remainingCapacity": 640,
+    "facilities": ["Full Air Circulation", "Doctor Station 24/7", "Dedicated Elderly Care", "Ample Parking for Supply Convoys"],
+    "status": "OPEN",
+    "contactPerson": "Dr. Ananya Reddy - 9848033445"
+  },
+  {
+    "id": "SHEL-04",
+    "name": "Secunderabad Railway Community Hall",
+    "location": "Mettuguda, Secunderabad, Hyderabad",
+    "coordinates": { "lat": 17.4370, "lng": 78.5120 },
+    "totalCapacity": 250,
+    "occupied": 190,
+    "remainingCapacity": 60,
+    "facilities": ["Basic Bedding", "Solar Emergency Lamps", "Cooked Meals Distribution"],
+    "status": "NEAR_CAPACITY",
+    "contactPerson": "K. Srinivas - 9848044556"
+  },
+  {
+    "id": "SHEL-05",
+    "name": "LB Nagar Municipal Multi-Purpose Center",
+    "location": "Saroornagar Lake Road, LB Nagar, Hyderabad",
+    "coordinates": { "lat": 17.3520, "lng": 78.5440 },
+    "totalCapacity": 350,
+    "occupied": 95,
+    "remainingCapacity": 255,
+    "facilities": ["First Aid Tents", "Drinking Water Reservoir", "Perimeter Security Guarded"],
+    "status": "OPEN",
+    "contactPerson": "M. Farooq - 9848055667"
+  }
+]

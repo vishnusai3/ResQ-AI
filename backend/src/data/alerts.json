@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ALT-501",
+    "type": "CRITICAL",
+    "title": "Severe Flash Flooding at KPHB Colony",
+    "message": "Water levels rising above 4.5 feet in low-lying residential clusters. Multiple citizens cut off.",
+    "timestamp": "2026-09-17T00:32:00.000Z",
+    "incidentId": "INC-1001"
+  },
+  {
+    "id": "ALT-502",
+    "type": "WARNING",
+    "title": "Road Inundation Blockade: KPHB Main Road",
+    "message": "KPHB Main Road impassable. Route optimization agent diverting emergency traffic via Miyapur NH-65 flyover.",
+    "timestamp": "2026-09-17T00:35:00.000Z",
+    "incidentId": "INC-1001"
+  },
+  {
+    "id": "ALT-503",
+    "type": "WARNING",
+    "title": "Ambulance AMB-104 Engaged",
+    "message": "Ambulance AMB-104 currently en route to Begumpet commercial complex incident.",
+    "timestamp": "2026-09-17T01:12:00.000Z",
+    "incidentId": "INC-1002"
+  },
+  {
+    "id": "ALT-504",
+    "type": "INFO",
+    "title": "KIMS Hospital Trauma Unit Alerted",
+    "message": "6 ICU and 14 Emergency beds reserved for inbound trauma patients.",
+    "timestamp": "2026-09-17T01:15:00.000Z",
+    "incidentId": "INC-1001"
+  },
+  {
+    "id": "ALT-505",
+    "type": "RESOLVED",
+    "title": "Chemical Spill Neutralized at Uppal",
+    "message": "Hazmat squad completed containment. Air quality sensors returned to safe baseline.",
+    "timestamp": "2026-09-16T19:30:00.000Z",
+    "incidentId": "INC-1005"
+  }
+]
